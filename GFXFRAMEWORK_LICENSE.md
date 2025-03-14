@@ -1,4 +1,4 @@
-MIT License
+MIT License ([gfx-framework](https://github.com/UPB-Graphics/gfx-framework))
 
 Copyright (c) The Project Contributors
 
