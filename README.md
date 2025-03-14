@@ -26,7 +26,7 @@ Players control tanks, adjust their aim, and fire to defeat the opponent.
 
 - Built in C++ with OpenGL
 - All visual elements are created programatically from vertex data
-- Uses the [gfx-framework](https://github.com/UPB-Graphics/gfx-framework) provided by the Computer Graphics Department of the Polytechnic University of Bucharest
+- Uses the [gfx-framework](https://github.com/UPB-Graphics/gfx-framework)
 
 ## Building and running
 Follow the instructions in the [framework repository](https://github.com/UPB-Graphics/gfx-framework?tab=readme-ov-file#gear-building). This project uses module 1. 
