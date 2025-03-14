@@ -4,8 +4,7 @@ A 1v1 2D tank game, featuring fully custom visuals, built with OpenGL.
 <br>
 Players control tanks, adjust their aim, and fire to defeat the opponent.
 
-    [image]
-
+![tankwars](https://github.com/user-attachments/assets/87ab9e99-6332-4415-86b6-44fd69f963a0)
 
 ## Gameplay
 
@@ -34,7 +33,9 @@ Follow the instructions in the [framework repository](https://github.com/UPB-Gra
 
 ## Preview
 
-    [video]
+https://github.com/user-attachments/assets/d4d06e01-92c5-4df8-a73f-d07952105e8f
+
+<br>
 
 ***
 Developed as part of the Fundamentals of Computer Graphics course at UNSTPB
