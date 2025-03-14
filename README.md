@@ -35,6 +35,13 @@ Follow the instructions in the [framework repository](https://github.com/UPB-Gra
 
 https://github.com/user-attachments/assets/d4d06e01-92c5-4df8-a73f-d07952105e8f
 
+
+## Licence
+
+This project does not have its own license.
+
+The included framework is licensed under the MIT License.
+
 <br>
 
 ***
